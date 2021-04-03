@@ -10,7 +10,7 @@ Cada vez que se use la función fprintf() el sistema guardará las variables al 
 
 #include <stdio.h> //Se incluye la libreria de entrada y salida
 #include <math.h> // Se incluye la libreria de operaciones matematicas
-#include <stdlib.h>
+#include <stdlib.h> //Contiene los prototipos de funciones de C para gestión de memoria dinámica, control de procesos y otras.
 
 int main ()
 {
@@ -75,6 +75,6 @@ int main ()
     };
     fclose(salida); // Se cierra el archivo
 
-    system("pause");
+    system("pause"); //ejecutar un comando externo, en este caso pause, que funciona para que el cmd no se cierre y pida oprimir una tecla para finalizar.
     return 0;
 }
