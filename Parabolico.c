@@ -1,6 +1,6 @@
 /*
 Programa: Tiro Parabolico
-Autores: Abdiel Andrade, Doribeth Andrade y Guadalupe
+Autores: Abdiel Andrade Hernandez
 Clase: Programacion Cientifica
 Fecha: 02/04/21
 Descripcion: El programa resuelve las ecuaciones de tiro parabolico de posicion y velocidad dependientes del tiempo y
